@@ -11,6 +11,11 @@
 # production
 /build
 
+# Rescript build stuffs
+/lib
+/.bsb.lock
+/.merlin
+
 # misc
 .DS_Store
 .env.local
