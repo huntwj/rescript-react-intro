@@ -15,6 +15,8 @@
 /lib
 /.bsb.lock
 /.merlin
+# We are Rescript only, so it's safe (and preferred!) to exclude generated JS from the repository
+*.bs.js
 
 # misc
 .DS_Store
